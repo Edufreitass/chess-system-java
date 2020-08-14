@@ -46,3 +46,14 @@
     - Layers pattern
   - **Data Structures Topics:**
     - Matrix
+
+## Placing pieces on the board
+  
+  **Checklist:**
+  - Method: Board.PlacePiece(piece, position)
+  - Classes: Rook, King [public]
+  - Method: ChessMatch.InitialSetup
+  - **OOP Topics:**
+    - Inheritance
+    - Overriding
+    - Polymorphism (ToString)

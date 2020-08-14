@@ -81,3 +81,13 @@
     - Overriding
     - Static members
     - Layers pattern
+
+## Little improvement in board printing
+
+**Color in terminal:**
+  - Windows: Git Bash
+  - Mac: Google "osx terminal color"
+    
+**Checklist:**
+  - Place more pieces on the board
+  - Distinguish piece colors in UI.PrintPiece method

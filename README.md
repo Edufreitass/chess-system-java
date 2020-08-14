@@ -57,3 +57,13 @@
     - Inheritance
     - Overriding
     - Polymorphism (ToString)
+
+## BoardException and defensive programming
+
+  **Checklist:**
+  - Class BoardException [public]
+  - Methods: Board.PositionExists, Board.ThereIsAPiece
+  - Implement defensive programming in Board methods
+  - **OOP Topics:**
+    - Exceptions
+    - Constructors (a string must be informed to the exception)

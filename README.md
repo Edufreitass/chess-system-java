@@ -91,3 +91,16 @@
 **Checklist:**
   - Place more pieces on the board
   - Distinguish piece colors in UI.PrintPiece method
+
+## Moving pieces
+
+**Checklist:**
+- Method Board.RemovePiece
+- Method UI.ReadChessPosition
+- Method ChessMatch.PerformChessMove
+  - Method ChessMatch.MakeMove
+  - Method ChessMatch.ValidadeSourcePosition
+- Write basic logic on Program.cs
+- **OOP Topics:**
+  - Exceptions
+  - Encapsulation

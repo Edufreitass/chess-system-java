@@ -282,3 +282,16 @@ public static void clearScreen() {
 - Update King
 - Update ChessMatch.MakeMove
 - Update ChessMatch.UndoMove
+
+## Special move - En Passant
+
+![Screenshot_1](https://user-images.githubusercontent.com/56324728/90346310-2e517900-dffe-11ea-97cb-0fabd8cb65a7.png)
+
+**Checklist:**
+- Register a pawn which can be captured by en passant on next turn
+  - Property ChessMatch.EnPassantVulnerable
+  - Update ChessMatch.PerformChessMove
+- Update Pawn.PossibleMoves
+- Update ChessMatch.MakeMove
+- Update ChessMatch.UndoMove
+- Update ChessMatch.InitialSetup

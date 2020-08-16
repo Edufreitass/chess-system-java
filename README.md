@@ -273,3 +273,12 @@ public static void clearScreen() {
   - Encapsulation
   - Inheritance
   - Polymorphism
+
+## Special move - Castling
+
+![Screenshot_1](https://user-images.githubusercontent.com/56324728/90345319-ff370980-dff5-11ea-92c6-183f93fe840c.png)
+
+**Checklist:**
+- Update King
+- Update ChessMatch.MakeMove
+- Update ChessMatch.UndoMove

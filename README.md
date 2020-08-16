@@ -243,3 +243,13 @@ public static void clearScreen() {
   - Encapsulation
   - Inheritance
   - Polymorphism
+
+## Bishop
+
+**Checklist:**
+- Class Bishop
+- Update ChessMatch.InitialSetup
+- **OOP Topics:**
+  - Encapsulation
+  - Inheritance
+  - Polymorphism

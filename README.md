@@ -147,3 +147,12 @@ public static void clearScreen() {
   - Polymorphism
   - Encapsulation / access modifiers [protected]
   - Exceptions
+
+## Printing possible moves
+
+**Checklist:**
+  - Method ChessMatch.PossibleMoves
+  - Method UI.PrintBoard [overload]
+  - Refactor main program logic
+- **OOP Topics:**
+  - Overloading

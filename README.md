@@ -192,5 +192,22 @@ public static void clearScreen() {
 - **OOP Topics:**
   - Encapsulation
   - Constructors
-- Data Structures Topics:
+- **Data Structures Topics:**
   - List
+
+## Check logic
+
+**Rules:**
+- Check means your king is under threat by at least one opponent piece
+- You can't put yourself in check
+
+**Checklist:**
+- Property ChessPiece.ChessPosition [get]
+- Class ChessMatch:
+  - Method UndoMove
+  - Property Check [private set]
+  - Method Opponent [private]
+  - Method King(color) [private]
+  - Method TestCheck
+  - Update PerformChessMove
+- Update UI.PrintMatch

@@ -156,3 +156,12 @@ public static void clearScreen() {
   - Refactor main program logic
 - **OOP Topics:**
   - Overloading
+
+## Implementing possible moves of King
+
+**Checklist:**
+- Method King.CanMove(position) [private]
+- Implement King.PossibleMoves
+- **OOP Topics:**
+  - Encapsulation
+  - Polymorphism

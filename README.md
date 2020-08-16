@@ -263,3 +263,13 @@ public static void clearScreen() {
   - Encapsulation
   - Inheritance
   - Polymorphism
+
+## Queen
+
+**Checklist:**
+- Class Queen
+- Update ChessMatch.InitialSetup
+- **OOP Topics:**
+  - Encapsulation
+  - Inheritance
+  - Polymorphism

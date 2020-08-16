@@ -120,3 +120,20 @@ public static void clearScreen() {
 **Checklist:**
   - ChessException
   - InputMismatchException
+
+## Possible moves of a piece
+
+![Screenshot_1](https://user-images.githubusercontent.com/56324728/90338528-95e8d380-dfc0-11ea-84e9-3b2bd1eb976c.png)
+
+**Checklist:**
+- Methods in Piece:
+  - PossibleMoves [abstract]
+  - PossibleMove
+  - IsThereAnyPossibleMove
+- Basic PossibleMove implementation for Rook and King
+- Update ChessMatch.ValidadeSourcePosition
+
+- **OOP Topics:**
+  - Abstract method / class
+  - Exceptions
+  

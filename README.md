@@ -178,3 +178,19 @@ public static void clearScreen() {
 - **OOP Topics:**
   - Encapsulation
   - Exceptions
+
+## Handling captured pieces
+
+**Checklist:**
+- Method UI.PrintCapturedPieces
+- Update UI.PrintMatch
+- Update Program logic
+- Lists in ChessMatch: _piecesOnTheBoard, _capturedPieces
+  - Update constructor
+  - Update PlaceNewPiece
+  - Update MakeMove
+- **OOP Topics:**
+  - Encapsulation
+  - Constructors
+- Data Structures Topics:
+  - List

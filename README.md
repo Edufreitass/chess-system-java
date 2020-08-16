@@ -165,3 +165,16 @@ public static void clearScreen() {
 - **OOP Topics:**
   - Encapsulation
   - Polymorphism
+
+## Switching player each turn
+
+**Checklist:**
+- Class ChessMatch:
+  - Properties Turn, CurrentPlayer [private set]
+  - Method NextTurn [private]
+  - Update PerformChessMove
+  - Update ValidadeSourcePosition
+- Method UI.PrintMatch
+- **OOP Topics:**
+  - Encapsulation
+  - Exceptions

@@ -233,3 +233,13 @@ public static void clearScreen() {
   - Update UndoMove
 - **OOP Topics:**
   - Encapsulation
+
+## Pawn
+
+**Checklist:**
+- Class Pawn
+- Update ChessMatch.InitialSetup
+- **OOP Topics:**
+  - Encapsulation
+  - Inheritance
+  - Polymorphism

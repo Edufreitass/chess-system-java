@@ -220,3 +220,16 @@ public static void clearScreen() {
   - Update PerformChessMove
 - Update UI.PrintMatch
 - Update Program logic
+
+## Piece move count
+
+**Checklist:**
+- Class ChessPiece:
+  - Property MoveCount [private set]
+  - Method IncreaseMoveCount [internal]
+  - Method DecreaseMoveCount [internal]
+- Class ChessMatch:
+  - Update MakeMove
+  - Update UndoMove
+- **OOP Topics:**
+  - Encapsulation

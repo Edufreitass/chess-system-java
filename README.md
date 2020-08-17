@@ -1,4 +1,4 @@
-# Chess System in Java
+# :chess_pawn: Chess System in Java :coffee:
 
 ## First class: Position
 

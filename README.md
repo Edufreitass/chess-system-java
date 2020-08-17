@@ -295,3 +295,13 @@ public static void clearScreen() {
 - Update ChessMatch.MakeMove
 - Update ChessMatch.UndoMove
 - Update ChessMatch.InitialSetup
+
+## Special move - Promotion
+
+![Screenshot_1](https://user-images.githubusercontent.com/56324728/90348131-d3724e80-e00a-11ea-8a92-57ccbc904e4a.png)
+
+**Checklist:**
+- Property ChessMatch.Promoted
+- Update ChessMatch.PerformChessMove
+- Method ChessMatch.ReplacePromotedPiece
+- Update Program logic
